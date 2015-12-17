@@ -3,3 +3,5 @@
 Calculates the appropriate tip and correct total for a bill of a given size.
 
 There's not much to see here...
+
+![Image of Yaktocat](demo.gif)
