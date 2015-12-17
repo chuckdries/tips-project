@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         tipLabel.text = "$0.00"
-        billField.placeholder = "$0.00"
+        billField.placeholder = "$"
         totalLabel.text = "$0.00"
         view.endEditing(false)
     }
