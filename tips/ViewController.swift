@@ -36,7 +36,7 @@ class ViewController: UIViewController {
         var total = tip + billAmount
         tipLabel.text = String(format: "$%.2f", tip)
         totalLabel.text = String(format: "$%.2f", total)
-        billField.text = String(format: "$%.2f", billAmount)
+
 
     }
     @IBAction func onTap(sender: AnyObject) {
